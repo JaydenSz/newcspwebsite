@@ -1,3 +1,3 @@
 # newcspwebsite
 
-https://jaydensz.github.io/newcspwebsite/
+https://jaydensz.github.io/newcspwebsite/Index/
