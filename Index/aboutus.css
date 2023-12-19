@@ -159,3 +159,18 @@ a:hover {
  
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+
+.home-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
